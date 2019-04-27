@@ -28,7 +28,3 @@ Go to: `localhost:3030` to see the magic.
 
 ## Gallery
 > Prepared for: Quant Humanists 2019
-
-![send a photo!](assets/entry-page.png)
-![view your posts](assets/logs-page.png)
-
